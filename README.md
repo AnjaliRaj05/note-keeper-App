@@ -1,6 +1,5 @@
-```
+
 Deploment Link: [https://649812831428007292eb479d--cheery-beignet-6aebfe.netlify.app/](https://649812831428007292eb479d--cheery-beignet-6aebfe.netlify.app/)
-```
 
 
 # Getting Started with Create React App
